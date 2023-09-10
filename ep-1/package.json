@@ -1,0 +1,14 @@
+{
+  "name": "ep-1",
+  "version": "1.0.0",
+  "description": "This is Namaste React ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Prateek Uniyal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
